@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @annie2017
+- 👋 Hi, I’m Annie.
 - 👀 I’m interested in C++, C#, JS
 - 🌱 I’m currently learning Spanish.
 
